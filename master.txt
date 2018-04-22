@@ -4,11 +4,4 @@
 ÔÚdev·ÖÖ§ÉÏÃæĞŞ¸Ä
 ÔÚmaster·ÖÖ§ÉÏÃæĞŞ¸Ä
 ÔÚ±¾µØ½øĞĞĞŞ¸Ä
-
-----------------------¿¿¿¿¿----------------------
-æ–°å»ºdev.txt
-ä¿®æ”¹master.txt
-åœ¨devåˆ†æ”¯ä¸Šé¢ä¿®æ”¹master.txt
-åœ¨devåˆ†æ”¯ä¸Šé¢ä¿®æ”¹
-åœ¨masteråˆ†æ”¯ä¸Šé¢ä¿®æ”¹
-zai yuancheng jinxing  xiugai 
+zai yuancheng jinxing  xiugai
