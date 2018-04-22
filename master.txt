@@ -1,5 +1,6 @@
-新建dev.txt
-修改master.txt
-在dev分支上面修改master.txt
-在dev分支上面修改
-在master分支上面修改
+鏂板缓dev.txt
+淇敼master.txt
+鍦╠ev鍒嗘敮涓婇潰淇敼master.txt
+鍦╠ev鍒嗘敮涓婇潰淇敼
+鍦╩aster鍒嗘敮涓婇潰淇敼
+zai yuancheng jinxing  xiugai 
